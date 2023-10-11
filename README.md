@@ -1,4 +1,1 @@
-#Lista Programmi C++ UniPr:  
-
-1-
-2-
+Lista programmi C++ UniPr
