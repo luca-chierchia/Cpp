@@ -1,0 +1,3 @@
+/home/ellech/CLionProjects/max-of-3/cmake-build-debug/CMakeFiles/max_of_3.dir
+/home/ellech/CLionProjects/max-of-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ellech/CLionProjects/max-of-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

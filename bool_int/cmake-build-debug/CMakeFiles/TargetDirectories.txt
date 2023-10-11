@@ -1,0 +1,3 @@
+/home/ellech/CLionProjects/bool_int/cmake-build-debug/CMakeFiles/bool_int.dir
+/home/ellech/CLionProjects/bool_int/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ellech/CLionProjects/bool_int/cmake-build-debug/CMakeFiles/rebuild_cache.dir

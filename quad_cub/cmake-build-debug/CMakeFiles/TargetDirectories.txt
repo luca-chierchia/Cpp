@@ -1,0 +1,3 @@
+/home/ellech/CLionProjects/quad_cub/cmake-build-debug/CMakeFiles/quad_cub.dir
+/home/ellech/CLionProjects/quad_cub/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ellech/CLionProjects/quad_cub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
