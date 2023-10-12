@@ -1,0 +1,3 @@
+C:/Users/Luca/CLionProjects/disegno_triangolo_rettangolo/cmake-build-debug/CMakeFiles/disegno_triangolo_rettangolo.dir
+C:/Users/Luca/CLionProjects/disegno_triangolo_rettangolo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Luca/CLionProjects/disegno_triangolo_rettangolo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
