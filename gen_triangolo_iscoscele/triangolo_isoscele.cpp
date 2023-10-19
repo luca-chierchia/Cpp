@@ -26,7 +26,8 @@ int main() {
             break;
     }
     while(h>k) {
-
+    if(h==1)
+        break;
         for (int j = 0; j < h; j++) {
             if (k - j <=0)
                 cout << '*';
