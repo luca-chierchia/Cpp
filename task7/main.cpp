@@ -63,7 +63,7 @@ int main() {
     int variabiliDeallocate=0;
     int variabiliAllocate=0;
     int input_valori=0; //variabile utilizzata per capire quanti input di x avevo dato xD.
-    int cursore;
+    int cursore=0;
 
     do{
         cout<<"Inserire dei numeri interi maggiori o uguali a 0:"<<endl;
