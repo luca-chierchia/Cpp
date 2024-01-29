@@ -17,7 +17,7 @@ int* arrWithRange(int* a, int dim, int max, int min){
         if( a[i] < max && a[i] > min )
             arr_din[i] = a[i];
     }
-    delete [ ] a;
+    
     dim *= 2;
     return arr_din;
 
@@ -86,8 +86,18 @@ int main() {
     for(int j = 0; j < cursore; j++){
         if ( j == cursore-1 )
             cout << arr_b[j] ;
+        else if (arr_b[j] == 0)
+            continue;
         else
             cout << arr_b[j] << "-" ;
+    }
+    cout << endl;
+
+    for(int j = 0; j < cursore; j++){
+        if ( j == cursore-1 )
+            cout << arr[j] ;
+        else
+            cout << arr[j] << "-" ;
     }
     cout << endl;
     return 0;
